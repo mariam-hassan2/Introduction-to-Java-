@@ -1,0 +1,1 @@
+This folder has some of the labs that were completed during the Intro to Java class at college
